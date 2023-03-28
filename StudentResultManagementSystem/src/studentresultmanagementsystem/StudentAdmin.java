@@ -14,6 +14,7 @@ public class StudentAdmin extends javax.swing.JFrame {
      * Creates new form StudentAdmin
      */
     public StudentAdmin() {
+        setTitle("Student Result Management System");
         initComponents();
     }
 

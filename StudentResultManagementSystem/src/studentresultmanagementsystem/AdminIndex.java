@@ -14,6 +14,7 @@ public class AdminIndex extends javax.swing.JFrame {
      * Creates new form AdminIndex
      */
     public AdminIndex() {
+        setTitle("Student Result Management System");
         initComponents();
     }
 

@@ -16,6 +16,7 @@ public class AdminLogin extends javax.swing.JFrame {
      * Creates new form AdminHome
      */
     public AdminLogin() {
+        setTitle("Student Result Management System");
         initComponents();
     }
 
